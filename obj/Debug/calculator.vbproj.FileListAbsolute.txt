@@ -1,0 +1,13 @@
+c:\users\joshu\onedrive\documents\visual studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.SplashScreen1.resources
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Joshu\OneDrive\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.AboutBox1.resources
